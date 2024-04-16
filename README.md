@@ -1,4 +1,4 @@
-# A-3D-object-classification-model-based-on-PointNet-
+# A PointNet++ Based Model for 3D Object Classification
 Dataset:
 
 [ModelNet40](https://modelnet.cs.princeton.edu/)
